@@ -1,0 +1,14 @@
+6ac2f620a9851e28baa111d24aff23e0 *DESCRIPTION
+27bf65da92cac95a1acbebd32c27d79b *NAMESPACE
+9b9eb16bf87168519862a05201e99aff *R/interferenceCI.R
+9af9014c79c978878c2db57b06bbfb09 *man/HH.Rd
+8d8086365e11ffc35d136f592bef8a48 *man/TV.Rd
+e15d39e6fa72c5b8e01dc68a20cdce50 *man/bd.Rd
+6976454debf89a4140284c5d0534d82b *man/estbound.Rd
+d0813ec1a3354f119d80c0b9ccc74c41 *man/exactCI.Rd
+73079d04e4bd483bca4dda9acbfadc25 *man/interferenceCI-package.Rd
+512b6f57d7c1b4e9e5d39b18b66d8883 *man/lsolve.Rd
+9f2e79b03e20caf691aafbdfc3d20cb0 *man/nchoosem.Rd
+937406963a44b4775a5cf8a1599c79b8 *man/pval.Rd
+8731f87eb74d5ed2fde9413e0d839225 *man/rand.Rd
+dec3e5004ca22f0abc535c78d331c50a *man/sample.n.Rd

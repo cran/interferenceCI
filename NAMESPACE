@@ -1,0 +1,4 @@
+#exportPattern("^[[:alpha:]]+")
+import(gtools,compiler)
+export(estbound,HH,TV,exactCI,nchoosem,pval,rand,sample.n)
+
